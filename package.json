@@ -1,0 +1,19 @@
+{
+  "name": "parking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PleatherShaman/parking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PleatherShaman/parking/issues"
+  },
+  "homepage": "https://github.com/PleatherShaman/parking#readme"
+}
