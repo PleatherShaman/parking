@@ -38,3 +38,9 @@ export interface JobSummary {
   fuelAdded: number;
   price: number;
 }
+
+export type SummaryStrategy = (carJobQuotes: JobSummary[]) => void;
+
+export interface OutputSummary {
+  output: SummaryStrategy;
+}
