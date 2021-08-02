@@ -1,3 +1,5 @@
+Initally, install all packages using your package manager
+
 To compile the code, run tsc 
 
 To run the code, node build/index.js
