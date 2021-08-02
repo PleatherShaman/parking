@@ -21,6 +21,7 @@
     "tsc": "^2.0.3"
   },
   "dependencies": {
-    "@types/node": "^16.4.10"
+    "@types/node": "^16.4.10",
+    "mathjs": "^9.4.4"
   }
 }
